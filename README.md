@@ -10,29 +10,29 @@ B.Tech CSE Student | AI Enthusiast | Full Stack Developer
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science @ VIT-AP
+  🎓 B.Tech Computer Science @ VIT-AP
 
-💻 Interested in
+  💻 Interested in
 
-• Artificial Intelligence
+  • Artificial Intelligence
 
-• Full Stack Development
+  • Full Stack Development
 
-• Java Backend Development
+  • Java Backend Development
 
-🌱 Currently learning
+  🌱 Currently learning
 
-• DSA
+  • DSA
 
-• Machine Learning
+  • Machine Learning
 
-• System Design
+  • System Design
 
-💻 Solved 150+ DSA Problems
+  💻 Solved 150+ DSA Problems
 
-🚀 Looking for Software Engineering Internship
+  🚀 Looking for Software Engineering Internship
 
-📫 Reach me
+  📫 Reach me
 
-saichandukotha2481@gmail.com
+   saichandukotha2481@gmail.com
 
