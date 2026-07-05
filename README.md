@@ -32,7 +32,10 @@ B.Tech CSE Student | AI Enthusiast | Full Stack Developer
 
   🚀 Looking for Software Engineering Internship
 
-  📫 Reach me
+  
 
-   saichandukotha2481@gmail.com
+  ## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kotha-sai-chandu-46128b291/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saichandukotha2481@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/chandu2481/)
