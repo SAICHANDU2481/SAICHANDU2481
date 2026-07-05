@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋 I'm Sai Chandu
+</h1>
+
+<h3 align="center">
+B.Tech CSE Student | AI Enthusiast | Full Stack Developer
+</h3>
 
 <!--
 **SAICHANDU2481/SAICHANDU2481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
