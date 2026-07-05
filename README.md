@@ -34,16 +34,17 @@ B.Tech CSE Student | AI Enthusiast | Full Stack Developer
 
   
 
- ## 🌐 Connect With Me
+<h2 align="center">🤝 Let's Connect</h2>
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kotha-sai-chandu-46128b291/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/kotha-sai-chandu-46128b291/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   <a href="mailto:saichandukotha2481@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
-  <a href="https://leetcode.com/u/chandu2481/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/chandu2481/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50"/>
   </a>
 </p>
