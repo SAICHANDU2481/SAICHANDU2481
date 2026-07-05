@@ -7,7 +7,7 @@ B.Tech CSE Student | AI Enthusiast | Full Stack Developer
 </h3>
 
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans-Serif&weight=300&size=25&letterSpacing=high&pause=1000&color=E1F74D&background=B8FF9E00&vCenter=true&width=435&lines=Java+Developer+;+Competitive+Programmer+;+Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
 ## 👨‍💻 About Me
 
   🎓 B.Tech Computer Science @ VIT-AP
