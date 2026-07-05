@@ -6,9 +6,11 @@ Hi 👋 I'm Sai Chandu
 B.Tech CSE Student | AI Enthusiast | Full Stack Developer
 </h3>
 
+
+
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Student
+🎓 B.Tech Computer Science @ VIT-AP
 
 💻 Interested in
 
@@ -18,14 +20,19 @@ B.Tech CSE Student | AI Enthusiast | Full Stack Developer
 
 • Java Backend Development
 
-🚀 Currently Learning
+🌱 Currently learning
 
-Spring Boot
+• DSA
 
-Machine Learning
+• Machine Learning
 
-Cloud
+• System Design
+
+💻 Solved 150+ DSA Problems
+
+🚀 Looking for Software Engineering Internship
 
 📫 Reach me
 
 saichandukotha2481@gmail.com
+
